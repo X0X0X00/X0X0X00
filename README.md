@@ -18,6 +18,7 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 ![Zhenhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X0X0X00&show_icons=true&theme=radical)
 
 ### Contact
+- **Phone:** (585)470-3118
 - **Email:** zzh133@u.rochester.edu
 - **Linked In：** www.linkedin.com/in/zhenhao-zhang-8aa437327
-- 
+  
