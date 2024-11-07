@@ -1,25 +1,23 @@
-![Banner](URL-to-banner-image)
 # Hello, I'm Zhenhao Zhang 👋
 
 ### About Me
-I'm a **Computer Science** and **Business** double major at the University of Rochester, deeply engaged in **Artificial Intelligence**, **Data Analysis**, and **Machine Learning**. I’m driven by the challenge of turning data into actionable insights and innovating solutions through technology.
+I'm a **Computer Science** and **Business** double major at the University of Rochester with a strong interest in **Computer science** and **Data science**. I enjoy working on projects related to **Artificial Intelligence**, **Data Analysis**, and **Machine Learning**.
 
 ### Skills
-- **Programming Languages:** Python (Advanced), Java (Intermediate), SQL (Intermediate), C++
+- **Languages:** Python, Java, SQL, C++
 - **Web Development:** HTML, CSS, JavaScript, React
-- **Data Science Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib
-- **Other Technologies:** Git, Docker, Apache Spark
+- **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib
+- **Tools & Technologies:** Git, Docker, Spark
 
 ### Projects
-- **App Install Prediction Model:** Developed a machine learning model to predict app installations, improving user engagement forecasts by 20%.
-- **Cleaning Services Market Analysis:** Conducted extensive market research to devise strategies for business expansion, focusing on new client acquisition in upstate New York.
-- **RNA-Seq Data Analysis:** Analyzed genomic data to understand gene expression patterns, contributing to research on gene regulation.
+- **App Install Prediction Model:** A predictive model for app installs based on user behavior.
+- **Cleaning Services Market Analysis:** Market research project focused on expanding a cleaning business in upstate New York.
+- **RNA-Seq Data Analysis:** Working with genomic data to analyze gene expressions and peak pairings.
 
 ### GitHub Stats
 ![Zhenhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X0X0X00&show_icons=true&theme=radical)
 
 ### Contact
-- **Phone:** [(585) 470-3118](tel:585-470-3118)
-- **Email:** [zzh133@u.rochester.edu](mailto:zzh133@u.rochester.edu)
-- **LinkedIn:** [Zhenhao Zhang](https://www.linkedin.com/in/zhenhao-zhang-8aa437327)
-
+- **Phone:** (585)470-3118
+- **Email:** zzh133@u.rochester.edu
+- **Linked In：** www.linkedin.com/in/zhenhao-zhang-8aa437327
