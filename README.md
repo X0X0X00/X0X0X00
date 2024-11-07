@@ -15,7 +15,7 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 - **RNA-Seq Data Analysis:** Working with genomic data to analyze gene expressions and peak pairings.
 
 ### GitHub Stats
-![Zhenhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X0X0X00&show_icons=true&theme=radical)
+![Zhenhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X0X0X00&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/X0X0X00/github-readme-stats)
 
