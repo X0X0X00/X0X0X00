@@ -25,4 +25,4 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 ### Contact
 - **Phone:** (585)470-3118
 - **Email:** zzh133@u.rochester.edu
-- **Linked In：** www.linkedin.com/in/zhenhao-zhang-8aa437327
+- **Linked In** www.linkedin.com/in/zhenhao-zhang-8aa437327
