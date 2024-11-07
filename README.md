@@ -19,7 +19,8 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 
 
 ### Prefer Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?X0X0X00=anuraghazra&layout=compact)](https://github.com/X0X0X00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/X0X0X00/github-readme-stats)
+
 
 ### Contact
 - **Phone:** (585)470-3118
