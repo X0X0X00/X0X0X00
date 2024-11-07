@@ -17,7 +17,9 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 ### GitHub Stats
 ![Zhenhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X0X0X00&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/X0X0X00/github-readme-stats)
+
+### Prefer Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?X0X0X00=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact
 - **Phone:** (585)470-3118
