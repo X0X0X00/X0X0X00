@@ -11,7 +11,7 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 - **Languages:** Python, Java, SQL, C++
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib
-- **Tools & Technologies:** Git, Docker, Spark
+- **Tools & Technologies:** Git, Docker, Spark, IntelliJ, Pycharm, DataGrip, CLion, Visual Studio Code
 
 ### Projects
 - **App Install Prediction Model:** A predictive model for app installs based on user behavior.
