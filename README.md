@@ -26,8 +26,15 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/X0X0X00/github-readme-stats)
 
 
+### Wakatime
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zzzh)](https://github.com/X0X0X00/github-readme-stats)
 
-### Activity Graph
+
+### Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=X0X0X00&theme=flat&column=7)
+
+
+### ontribution Graph
 ![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=X0X0X00&theme=github-compact)
 
 
