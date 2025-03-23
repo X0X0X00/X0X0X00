@@ -26,6 +26,11 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/X0X0X00/github-readme-stats)
 
 
+
+### Activity Graph
+![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=X0X0X00&theme=github-compact)
+
+
 ### Contact
 - **Phone:** (585)470-3118
 - **Email:** zzh133@u.rochester.edu
