@@ -1,8 +1,25 @@
 # Hello, I'm Zhenhao Zhang 👋
 
+<!-- README.md -->
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 </div>
+
+<h1 align="center">Hi 👋, I'm Zhenhao Zhang</h1>
+<p align="center">A passionate CS × Business student | 📍 University of Rochester</p>
+
+<p align="center">
+  <a href="https://github.com/X0X0X00" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zzh133@u.rochester.edu">
+    <img src="https://img.shields.io/badge/Email-zzh133@u.rochester.edu-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ### About Me
 I'm a **Computer Science** and **Business** double major at the University of Rochester with a strong interest in **Computer science** and **Data science**. I enjoy working on projects related to **Artificial Intelligence**, **Data Analysis**, and **Machine Learning**.
