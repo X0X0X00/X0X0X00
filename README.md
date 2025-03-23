@@ -1,4 +1,3 @@
-# Hello, I'm Zhenhao Zhang 👋
 
 <!-- README.md -->
 <div align="center">
