@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Email-zzh133@u.rochester.edu-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:15606510686">
-    <img src="https://img.shields.io/badge/Phone-+86%2015606510686-000000?style=for-the-badge&logo=phone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-+86%2015606510686-white?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
 
 </p>
