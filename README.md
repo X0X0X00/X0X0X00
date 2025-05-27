@@ -15,11 +15,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:zzh133@u.rochester.edu">
-    <img src="https://img.shields.io/badge/Email-zzh133@u.rochester.edu-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:15606510686">
-    <img src="https://img.shields.io/badge/Phone-+86%2015606510686-white?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-📧%20Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+ <a href="tel:5854703118">
+  <img src="https://img.shields.io/badge/Phone-📞%20Click%20to%20Call-2e2e2e?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
 
 </p>
 
