@@ -17,6 +17,10 @@
   <a href="mailto:zzh133@u.rochester.edu">
     <img src="https://img.shields.io/badge/Email-zzh133@u.rochester.edu-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:5854703118">
+  <img src="https://img.shields.io/badge/Phone-(585)%20470--3118-darkgreen?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
 </p>
 
 
@@ -28,12 +32,4 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Tools & Technologies:** Git, Docker, Spark, IntelliJ, Pycharm, DataGrip, CLion, Visual Studio Code
-
-### Contact
-<p align="center">
-  <strong>Phone:</strong> (585) 470-3118 <br>
-  <strong>Phone:</strong> 15606510686 <br>
-  <strong>Email:</strong> <a href="mailto:zzh133@u.rochester.edu">zzh133@u.rochester.edu</a><br>
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/zhenhao-zhang-uofr">zhenhao-zhang-uofr</a>
-</p>
 
