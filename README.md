@@ -34,26 +34,6 @@ I'm a **Computer Science** and **Business** double major at the University of Ro
 - **Cleaning Services Market Analysis:** Market research project focused on expanding a cleaning business in upstate New York.
 - **RNA-Seq Data Analysis:** Working with genomic data to analyze gene expressions and peak pairings.
 
-### GitHub Stats
-![Zhenhao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=X0X0X00&show_icons=true&theme=transparent)
-
-
-### Prefer Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/X0X0X00/github-readme-stats)
-
-
-### Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=X0X0X00&theme=flat&column=7)
-
-
-### WakaTime
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zzzh&theme=transparent)](https://wakatime.com/@zzzh)
-
-
-### Contribution Graph
-![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=X0X0X00&theme=github-compact)
-
-
 ### Contact
 <p align="center">
   <strong>Phone:</strong> (585) 470-3118<br>
