@@ -25,6 +25,6 @@
 </p>
 
 
-### About Me
-I'm a **Computer Science** and **Business** double major at the @UOFR University of Rochester with a strong interest in **Computer science** and **Data science**. I enjoy working on projects related to **Artificial Intelligence**, **Data Analysis**, and **Machine Learning**.
+
+I'm a **Computer Science** and **Business** double major @ University of Rochester with a strong interest in **Computer science** and **Data science**. I enjoy working on projects related to **Artificial Intelligence**, **Data Analysis**, and **Machine Learning**.
 
