@@ -27,6 +27,8 @@
 
 
 🎓 M.S. in Artificial Intelligence @ Columbia University
+
+
 🎓 B.S. in Computer Science & Business Information Systems @ University of Rochester, Cum Laude
 
 🔬 Research interests: AI Agents · Reinforcement Learning · Multimodal Learning · LLMs
