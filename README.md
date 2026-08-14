@@ -25,13 +25,3 @@
 🔬 Research interests: AI Agents · Reinforcement Learning · Multimodal Learning · LLMs
 
 🧠 Currently working on Computer-Use Agents, Reward Models, and Agent Learning
-
-### Featured
-
-- **[CaptchaArena](https://github.com/X0X0X00/CaptchaArena)** — a benchmark for computer-use agents on interactive CAPTCHAs: 20 puzzle families served as live pages, 50,000 puzzles, screenshot in / mouse out.
-- **[News-Filter](https://github.com/X0X0X00/News-Filter)** — webpage classification by embedding similarity, no fine-tuning.
-
-<div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=X0X0X00&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X0X0X00&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
