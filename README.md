@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Zhenhao Zhang</h1>
-<p align="center">A passionate CS × Business student | 📍 University of Rochester</p>
+<p align="center">MSAI Student @ Columbia University | AI/ML Researcher</p>
 
 <p align="center">
   <a href="https://github.com/X0X0X00" target="_blank">
@@ -26,5 +26,9 @@
 
 
 
-Incoming MSAI Student at **Columbia University** | Double Degree in Computer Science & Business Information Systems @ University of Rochester (Cum Laude) | Seeking AI/ML Opportunities
+🎓 M.S. in Artificial Intelligence @ Columbia University
+🎓 B.S. in Computer Science & Business Information Systems @ University of Rochester, Cum Laude
 
+🔬 Research interests: AI Agents · Reinforcement Learning · Multimodal Learning · LLMs
+
+🧠 Currently working on Computer-Use Agents, Reward Models, and Agent Learning
