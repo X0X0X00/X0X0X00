@@ -25,3 +25,8 @@
 🔬 Research interests: AI Agents · Reinforcement Learning · Multimodal Learning · LLMs
 
 🧠 Currently working on Computer-Use Agents, Reward Models, and Agent Learning
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=X0X0X00&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=X0X0X00&theme=default" alt="GitHub profile summary" />
+</picture>
