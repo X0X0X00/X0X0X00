@@ -42,7 +42,8 @@ My research focuses on AI agents that act in interactive environments. I build l
 ## 📄 Research
 
 **CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs**<br>
-**Zhenhao Zhang**\*, Zhaoyu Fan, Haohan Ying, Jingwen Hu, Hancen Fan, Junhao Zhou, Zitian Chen, Linchao Zhu† &nbsp;<sub>(\*Project lead, †Corresponding author)</sub><br>
+**Zhenhao Zhang**\*, Zhaoyu Fan, Haohan Ying, Jingwen Hu, Hancen Fan, Junhao Zhou, Zitian Chen, Linchao Zhu†<br>
+<sub>(\*Project lead, †Corresponding author)</sub><br>
 <sub>arXiv 2026 · Under review</sub> &nbsp; [[Project]](https://github.com/X0X0X00/CaptchaArena) [[Dataset]](https://huggingface.co/datasets/ZHEN-04/CaptchaArena)
 
 **SeekJudge: A Practical Reward Framework for Reinforcement Learning in Computer-Use Agents**<br>
