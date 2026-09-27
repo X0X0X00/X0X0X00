@@ -36,7 +36,7 @@ My research focuses on AI agents that act in interactive environments. I build l
 - 🎓 **M.S. in Artificial Intelligence** @ Columbia University — concentration: AI and Advanced Computing (2026 – 2028)
 - 🎓 **B.S. in Computer Science** @ University of Rochester — *Cum Laude, Highest Distinction in Computer Science* (2022 – 2025)
 - 🎓 **B.S. in Business (Information Systems)** @ University of Rochester — *Cum Laude* (2022 – 2025)
-- 🔬 Research assistant with [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/) @ Zhejiang University since 2025 — first on agent memory, now on computer-use agents
+- 🔬 Doing research under [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/) @ Zhejiang University since 2025 — first on agent memory, now on computer-use agents
 - 🧠 Currently working on **Computer-Use Agents**, **Reward Models**, and **Agent Learning**
 
 ## 📄 Research
