@@ -54,15 +54,6 @@ Yang Wan, Zheng Cao, **Zhenhao Zhang**, Zhengwen Zeng, Shuheng Shen, Changhua Me
 Cantay Çalışkan, Yi Ren, Yiheng Yao, **Zhenhao Zhang**, Qike Jiang, Yuewen Yan<br>
 <sub>SSRN 2026</sub> &nbsp; [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6727981)
 
-## 🏆 Awards
-
-| | |
-|:--|--:|
-| GIDS Biomedical Data Science Hackathon — Prize Winner · **2nd Place** | Aug 2026 |
-| GIDS Biomedical Data Science Hackathon — Prize Winner | Aug 2025 |
-| GIDS Biomedical Data Science Hackathon — Prize Winner | Aug 2024 |
-| Finnov8 Hackathon — **2nd Place Overall** | Mar 2024 |
-
 ## 📊 GitHub
 
 <picture>
