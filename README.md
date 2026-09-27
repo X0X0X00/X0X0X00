@@ -29,12 +29,9 @@
 
 ## 🧑‍💻 About Me
 
-I build AI agents that act in interactive environments: large-scale multimodal datasets and training environments for **computer-use agents** with executable, browser-verified rewards; unified vision-language agents trained with SFT and **reinforcement learning (GRPO)**; **reward models** for long-horizon agent evaluation; and memory / context management in multi-turn LLM agents.
+I am an M.S. student in Artificial Intelligence at Columbia University (concentration: AI and Advanced Computing). I received my B.S. in Computer Science and B.S. in Business (Information Systems) from the University of Rochester in 2025, graduating cum laude with Highest Distinction in Computer Science. Since 2025, I have been working with [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/) at the College of Computer Science and Technology, Zhejiang University — first on agent memory, and since 2026 on computer-use agents.
 
-- 🎓 **M.S. in Artificial Intelligence** @ Columbia University — concentration: AI and Advanced Computing (2026 – 2028)
-- 🎓 **B.S. in Computer Science** & **B.S. in Business (Information Systems)** @ University of Rochester — *Cum Laude, Highest Distinction in Computer Science* (2025)
-- 🔬 Research assistant with [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/) @ Zhejiang University since 2025 — first on agent memory, now on computer-use agents
-- 🧠 Currently working on **Computer-Use Agents**, **Reward Models**, and **Agent Learning**
+My research focuses on AI agents that act in interactive environments. I build large-scale multimodal datasets and training environments for computer-use agents with executable, browser-verified rewards; train unified vision-language agents with SFT and reinforcement learning (GRPO); design reward models for long-horizon agent evaluation; and study memory and context management in multi-turn LLM agents. I am broadly interested in AI agents, multimodal learning, and reinforcement learning.
 
 ## 📄 Research
 
@@ -53,15 +50,6 @@ Yang Wan, Zheng Cao, **Zhenhao Zhang**, Zhengwen Zeng, Shuheng Shen, Changhua Me
 **Political Symbols and Urban Amenities: The Spatial Logic of Flag Placement in Istanbul**<br>
 Cantay Çalışkan, Yi Ren, Yiheng Yao, **Zhenhao Zhang**, Qike Jiang, Yuewen Yan<br>
 <sub>SSRN 2026</sub> &nbsp; [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6727981)
-
-## 🏆 Awards
-
-| | |
-|:--|--:|
-| GIDS Biomedical Data Science Hackathon — Prize Winner · **2nd Place** | Aug 2026 |
-| GIDS Biomedical Data Science Hackathon — Prize Winner | Aug 2025 |
-| GIDS Biomedical Data Science Hackathon — Prize Winner | Aug 2024 |
-| Finnov8 Hackathon — **2nd Place Overall** | Mar 2024 |
 
 ## 📊 GitHub
 
