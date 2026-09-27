@@ -33,6 +33,12 @@ I am an M.S. student in Artificial Intelligence at Columbia University (concentr
 
 My research focuses on AI agents that act in interactive environments. I build large-scale multimodal datasets and training environments for computer-use agents with executable, browser-verified rewards; train unified vision-language agents with SFT and reinforcement learning (GRPO); design reward models for long-horizon agent evaluation; and study memory and context management in multi-turn LLM agents. I am broadly interested in AI agents, multimodal learning, and reinforcement learning.
 
+- 🎓 **M.S. in Artificial Intelligence** @ Columbia University — concentration: AI and Advanced Computing (2026 – 2028)
+- 🎓 **B.S. in Computer Science** @ University of Rochester — *Cum Laude, Highest Distinction in Computer Science* (2025)
+- 🎓 **B.S. in Business (Information Systems)** @ University of Rochester — *Cum Laude* (2025)
+- 🔬 Research assistant with [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/) @ Zhejiang University since 2025 — first on agent memory, now on computer-use agents
+- 🧠 Currently working on **Computer-Use Agents**, **Reward Models**, and **Agent Learning**
+
 ## 📄 Research
 
 **CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs**<br>
