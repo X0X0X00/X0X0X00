@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 </div>
 
-<h1 align="center">Hi 👋, I'm Zhenhao Zhang (张臻昊)</h1>
+<h1 align="center">Hi 👋, I'm Zhenhao Zhang</h1>
 <p align="center">M.S. Student in Artificial Intelligence @ Columbia University<br>AI Agents · Reinforcement Learning · Multimodal Learning · LLMs</p>
 
 <p align="center">
