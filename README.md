@@ -36,7 +36,7 @@ My research focuses on AI agents, multimodal learning, and reinforcement learnin
 I’m particularly interested in building generalizable agents that can reason, interact with complex environments, learn from feedback, and improve through experience
 
 
-- 🎓 **M.S. in Artificial Intelligence** @ Columbia University — concentration: AI and Advanced Computing (2026 – 2028)
+- 🎓 **M.S. in Artificial Intelligence** @ Columbia University — concentration: AI and Advanced Computing (2026 – 2027)
 - 🎓 **B.S. in Computer Science** @ University of Rochester — *Cum Laude, Highest Distinction in Computer Science* (2022 – 2025)
 - 🎓 **B.S. in Business (Information Systems)** @ University of Rochester — *Cum Laude* (2022 – 2025)
 - 🔬 Doing research under [Dr. Linchao Zhu](https://ffmpbgrnn.github.io/) @ Zhejiang University since 2025 — first on agent memory, now on computer-use agents
